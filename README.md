@@ -15,7 +15,7 @@ Objectives and Functionality:
 - Designed an intuitive interface with LED indicators, where the microcontroller reads the gate outputs and displays the status (pass/fail) of each gate by illuminating corresponding LEDs.
 - The program ensures that the logic gates are tested under varying conditions, providing real-time feedback to the user, enhancing troubleshooting and testing efficiency.
 
-[TinkerCAD Design](Images/ICtestertesting.png)
+![TinkerCAD Design](Images/ICtestertesting.png)
 
 Disclaimer: This system serves as a prototype, designed to demonstrate the core functionality of automatic IC detection and testing. It is currently not intended for production use and requires further optimization and refinement.
 
