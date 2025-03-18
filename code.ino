@@ -1,4 +1,3 @@
-```C
 // launchpad-based ic tester for and (7408) / or (7432) gates
 // -----------------------------------------------------------
 // this program automatically detects whether an inserted ic is a 7408 (and) or 7432 (or) 
@@ -103,4 +102,3 @@ void loop() {
 
     delay(2000);  // wait before running the next test cycle
 }
-```
